@@ -41,6 +41,7 @@ class HelloService3:
         # return variables are: s
         #BEGIN do_something
         s = 'doing something'
+        print('I am doing something.')
         #END do_something
 
         # At some point might do deeper type checking...
